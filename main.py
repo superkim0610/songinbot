@@ -9,9 +9,10 @@ import random
 import pickle
 import json
 import logging
+import os
 
 client = discord.Client()
-token = "ODIzNDMzMDU2MzkxNjU5NTMx.YFgvyw.CfYBAZ_CYVrCK1iGDt_8bP2T5VE"
+token = os.environ["TOKEN"]
 
 @client.event
 async def on_ready():
