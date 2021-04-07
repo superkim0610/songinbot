@@ -1,6 +1,6 @@
 discord.py
 youtube_dl
-urllib.py
+urllib.parse
 re
 random
 pickle
