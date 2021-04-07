@@ -1,9 +1,9 @@
 discord.py
-youtube_dl.py
-time.py
-urllib.py
-re.py
-random.py
-pickle.py
-json.py
-logging.py
+youtube_dl
+time
+urllib
+re
+random
+pickle
+json
+logging
