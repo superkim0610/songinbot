@@ -1,8 +1,8 @@
 discord.py
 youtube_dl
-urllib.py
-re.py
-random.py
-pickle.py
-json.py
-logging.py
+urllib
+re
+random
+pickle
+json
+logging
